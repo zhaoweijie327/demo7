@@ -1,0 +1,26 @@
+{
+  "login" : {
+
+    "mobile":"13800000002",
+    "password":"123456",
+    "message":"操作成功！"
+  },
+
+  "add_bumen" : {
+
+    "name":"xxx部",
+    "code":"xxxxHANAI",
+    "manager":"xxx",
+    "introduce":"xxxxxxxxxxxxxx",
+    "message":"操作成功！"
+  },
+
+  "updata_bumen" : {
+
+    "name":"xxdx部",
+    "code":"xxdxxHANAI",
+    "manager":"xdxx",
+    "introduce":"xxxxxdxxxxxxxxx",
+    "message":"操作成功！"
+  }
+}
